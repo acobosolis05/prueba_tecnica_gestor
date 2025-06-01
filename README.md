@@ -1,5 +1,7 @@
 # prueba_tecnica_gestor
 
+# INSTRUCCIONES:
+
 Para ejecutar todos los notebooks en esta prueba técnica, se deben seguir los siguientes procedimientos:
 
 ### 1. Clonar el repositorio.
@@ -15,9 +17,9 @@ pip install -r requirements.txt
 ### 3. Ejecutar las instrucciones en el orden correcto.
 
 
-# Carpetas:
+# CARPETAS:
 
-# Contacto
+# CONTACTO
 
 Airam K. Cobo solis
 correo: airamcobosolis@gmail.com
