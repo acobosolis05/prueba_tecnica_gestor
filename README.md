@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 # CARPETAS:
 
-# CONTACTO
+# CONTACTO:
 
 Airam K. Cobo solis
 correo: airamcobosolis@gmail.com
