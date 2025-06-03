@@ -1,0 +1,37 @@
+DIMENSIONES DATASET
+
+Tamaño del conjunto de entrenamiento: (7761, 13)
+Tamaño del conjunto de prueba: (2587, 13)
+____________________________________________________________________
+MODELOS EVALUADOS
+
+          Modelo  Accuracy  F1-Score
+0  Random Forest    0.8311    0.8311
+1            SVC    0.7886    0.7881
+2        XGBoost    0.8052    0.8049
+____________________________________________________________________
+VALIDACIÓN CRUZADA
+
+Validación cruzada para la clasificación: 0.8268 (+/- 0.0502)
+
+____________________________________________________________________
+OPTIMIZACIÓN DE HIPERPARÁMETROS
+
+Mejores hiperparámetros para el modelo de clasificación
+{
+    'max_depth': 20, 
+    'max_features': 'sqrt',
+    'min_samples_leaf': 1,
+    'min_samples_split': 2,
+    'n_estimators': 100
+}
+       
+Mejor precisión: 0.8311805044795146
+
+_____________________________________________________________________
+EVALUACIÓN DEL MODELO CON LOS DATOS DE PRUEBA
+
+Clasificación - Accuracy: 0.9930421337456513
+Clasificación - F1-score: 0.9930421233492441
+______________________________________________________________________
+
