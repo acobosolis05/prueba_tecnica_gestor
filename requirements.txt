@@ -1,0 +1,13 @@
+pip
+pandas
+matplotlib
+statsmodels
+scikit-learn
+python-dotenv
+imbalanced-learn
+xgboost
+seaborn
+prophet
+fastapi
+uvicorn
+pydantic
